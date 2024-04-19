@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(15, 67, 80);
+}
+
+
+
+header{
+    border: 10px solid rgb(white,);
+    padding: 10px;
+    position: static;
+    background-color: rgb(119, 42, 42);
+}
+
+div h1, h3{
+    font-family: monospace;
+    color: aliceblue;
+    
+}
+
+nav {
+    display: inline;
+}
+
+#boton-acerca-de{
+    padding: 10px;
+    color: aliceblue;
+    display: inline;
+    font-family: monospace;
+}
+
+#boton-menu{
+    padding: 10px;
+    color: aliceblue;
+    display: inline;
+    font-family: monospace;
+}
+
+#boton-galeria{
+    padding: 10px;
+    color: aliceblue;
+    display: inline;
+    font-family: monospace;
+}
+
+#boton-ubicacion{
+    padding: 10px;
+    color: aliceblue;
+    display: inline;
+    font-family: monospace;
+}
+
+/** imagen de la pagina web**/
+div img{
+    display: inline;
+    width: 650px;
+    height: 400px;
+}
+
+article {
+    color: aliceblue;
+    font-family: monospace;
+    font-size: x-large;
+}
+
+section h3 {
+    color: aquamarine;
+    font-size: xx-large;
+
+}
+
+ .bebidas {
+    color: aquamarine;
+ }
+    .categoria{
+        color: rgb(238, 205, 97);
+    }
+
+}
